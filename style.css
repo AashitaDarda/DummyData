@@ -1,0 +1,113 @@
+#loginmodal{
+    text-align: center;
+   
+}
+#rememberme{
+    text-align: left;
+    /* display: none; */
+    /* margin-left: -210px; */
+    /* display: flex; */
+    /* flex-basis: 50%; */
+    /* margin-right: 210px; */
+}
+ /* margin-left: 100px; */
+    /* flex-basis: 50%; */
+
+
+#remid{
+    display: flex;
+    justify-content: left;
+    margin-left: 170px;
+
+}
+.logindiv
+{
+    position: absolute;
+    right: 191px;
+    top: 215px;
+    
+}
+#LoginBtn{
+    background-color: #810505;
+    color: white;
+    border: 2px #810505 solid;
+}
+#LoginBtn:hover{
+    background-color: white;
+    color: #810505;
+    border: 2px #810505 solid;
+}
+.info1{
+    display: flex;
+}
+#reglink{
+    margin-left: 7px;
+    color: blue;
+
+}
+#reglink:hover{
+    color: #f50505;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    background: #edc58f82;
+    margin: 10px;
+
+}
+#UserFullName{
+    margin-right: 10px;
+}
+#PhoneNumber{
+    margin-right: 10px;
+}
+.userInfo{
+    text-align: -webkit-center;
+
+}
+#State{
+    margin-right: 100px;
+}
+#password{
+    margin-right: 10px;
+}
+#female{
+    margin-left: 10px;
+}
+/* #Reading,#Travelling,#Cooking,#Dancing{
+    margin-left: 10px;
+} */
+.personalinfo{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.Create{
+    text-align: center;
+}
+#AccountCreate{
+    background-color: #810505;
+    color: white;
+    border: 2px #810505 solid;
+}
+#AccountCreate:hover{
+    background-color: white;
+    color: #810505;
+    border: 2px #810505 solid;
+}
+#login, #registration{
+    margin: 20px;
+    padding: 20px;
+    border: 2px #782e2e solid;
+    background-color: #782e2e;
+    color: white;
+}
+#login:hover , #registration:hover{
+    background-color:#edc58f82 ;
+    color: black;
+    border: 2px #782e2e solid;
+}
+
+   
+
+
